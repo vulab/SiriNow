@@ -5,12 +5,19 @@ Framework is built with Java 8, Spring Framework, Hibernate, Spring Security, JS
 
 ##Framework built using
 *Spring Framework*
+
 *Spring Security*
+
 *JSON Web Token*
+
 *REST (Jersey)*
+
 *Spring MVC*
+
 *Hibernate ORM*
+
 *Java 8*
+
 *Apache Maven*
 
 ##Main Features:
