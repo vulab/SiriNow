@@ -1,0 +1,10 @@
+http://localhost:8080/MeHappy/web/login
+Above login for providing username and password
+
+Take the token and update in home.jsp
+Save home.jsp
+
+
+Invoke this url
+http://localhost:8080/MeHappy/web/login/home
+click on the button to get cars from the server
