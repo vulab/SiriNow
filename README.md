@@ -29,8 +29,8 @@ Spring MVC and Jersey REST capable
 Configurable security with Spring Security
 
 ##Coming Soon:
-Log4j log management
-Email server integration with Email Templates
-Twilio Integration for communication.
-Social integration with twitter, facebook and linkedIn integration
+>Log4j log management
+>Email server integration with Email Templates
+>Twilio Integration for communication.
+>Social integration with twitter, facebook and linkedIn integration 
 
