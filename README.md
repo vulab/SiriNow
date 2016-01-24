@@ -1,10 +1,9 @@
 # SiriNow
-Get up an running with a Micro Services Framework with JWT security in few minutes.
+Get up and running with a Java Micro Service in few minutes.
 
-Framework is built with Spring Framework, Hibernate, Spring Security, JSON Web Token JWT, Spring MVC, Jersey REST, Hibernate Second Level Cache.
-This is a simple framework to crate Java Micro Service.
+Framework is built with Java 8, Spring Framework, Hibernate, Spring Security, JSON Web Token JWT, Spring MVC, Jersey REST, Hibernate Second Level Cache. 
 
-Framework is built with:
+##Framework is built with:
 Spring Framework
 Spring Security
 JSON Web Token
